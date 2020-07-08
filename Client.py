@@ -50,5 +50,3 @@ class Client:
         message = message.decode('utf-8')
         print('\r\n' + message)
 
-
-a = Client(Config.HOST, Config.PORT)
