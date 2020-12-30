@@ -9,7 +9,7 @@ s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 connections = []
 logger.debug(msg=f"Created Socket Successfully...\r\n\t{s}")
 
-
+#test
 def broadcast(conn, username, message, log):
     """
     Broadcasting method
