@@ -10,6 +10,7 @@ connections = []
 logger.debug(msg=f"Created Socket Successfully...\r\n\t{s}")
 
 #test
+#itay
 def broadcast(conn, username, message, log):
     """
     Broadcasting method
